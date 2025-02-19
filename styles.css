@@ -1,15 +1,25 @@
 body{
     text-align: center;
-    background: linear-gradient(to right, rgb(225, 231, 142), rgb(235, 214, 31));
-    color: rgb(20, 15, 15);
+    background: linear-gradient(to right, rgb(244, 250, 167), rgb(235, 214, 31));
+    color: rgb(52, 82, 12);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
+
+  h1{
+    font-family: "Varela Round", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
   h2{
     font-size: 24px;
+    font-family: "Varela Round", serif;
+    font-weight: 400;
+    font-style: normal;
   }
   a{
     background-color: rgb(161, 159, 0);
-    color: rgb(255, 255, 255);
+    color: rgb(231, 225, 205);
     font-size: 20px;
     padding: 10px;
     border-radius: 10px;
